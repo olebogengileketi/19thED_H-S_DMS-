@@ -1,0 +1,10 @@
+[2026-08-18 18:57:43] [TEST] This is a test error message
+Request: UNKNOWN UNKNOWN
+IP: UNKNOWN
+
+--------------------------------------------------------------------------------
+[2026-08-18 18:57:43] [DATABASE] Query failed: SELECT * FROM test_table
+Error: Table doesn't exist
+Params: []
+
+--------------------------------------------------------------------------------
